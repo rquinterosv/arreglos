@@ -1,0 +1,1 @@
+# Se necesita crear un programa llamado  filtro_procesos.rb  que lea un archivo que tiene datos por línea.  Estos  datos  representan  la  cantidad  de  milisegundos  que  demoran  en  terminar  algunos procesos del sistema operativo.
